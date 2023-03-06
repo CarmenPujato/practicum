@@ -1,5 +1,5 @@
 # practicum
-A continuación, se muestran los proyectos realizados durante el curso de Data Analyst de Practicum.La lista,se encuentra ordenada cronológicamente según los fuimos realizando a lo largo del curso. 
+A continuación, se muestran los proyectos realizados durante el curso de Data Analyst de Practicum. La tabla se encuentra ordenada cronológicamente según los fuimos realizando a lo largo del curso. 
 
 | Proyectos              | Descripción                 | Librerías utilizadas             |
 | :-------------------- | :--------------------- |:---------------------------|
