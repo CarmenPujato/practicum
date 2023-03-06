@@ -1,5 +1,5 @@
 # practicum
-Proyectos realizados durante el curso de Data Analyst de Practicum.
+A continuación, se muestran los proyectos realizados durante el curso de Data Analyst de Practicum.La lista,se encuentra ordenada cronológicamente según los fuimos realizando a lo largo del curso. 
 
 | Proyectos              | Descripción                 | Librerías utilizadas             |
 | :-------------------- | :--------------------- |:---------------------------|
@@ -14,4 +14,4 @@ Proyectos realizados durante el curso de Data Analyst de Practicum.
 |Estudio de mercado para la apertura de un café.|Estudio de mercado de la ciudad de LA.,USA con el objetivo determinar la viabilidad de la apertura de un café. Uso de expresiones regulares. Presentación. | Pandas, plotly.express|
 |Empresa vendedora de productos alimenticios.|Proyecto integrado 2. Análisis del comportamiento del usuario en la app de la empresa en cada una de sus etapas, desde que entra hasta que llega al punto de la compra. Análisis y test A/A/B. Prueba de hipótesis.| Pandas, scipy, numpy, math, plotly (graph_objects)| 
 
-La lista de los proyectos esta ordenada en orden cronológico según los fuimos realizando a lo largo del curso. 
+
