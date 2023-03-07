@@ -3,7 +3,7 @@
 ## Objetivo del proyecto
 
 Durante este proyecto, trabajaré con una base de datos de una tienda online a nivel mundial de venta de videojuegos. Utilizaré los datos del año 2016 para identificar diferentes patrones en los juegos con el fin de detectar proyectos interesantes y planificar campañas publicitarias futuras.
-
+Trabajaré con pruebas de hipótesis.
 ## Descripción de los datos
 
 Estare usando una tabla que contiene la siguiente información:
