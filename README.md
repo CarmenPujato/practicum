@@ -3,7 +3,7 @@ A continuación, se muestran los proyectos realizados durante el curso de Data A
 
 | Proyectos              | Descripción                 | Librerías utilizadas             |
 | :-------------------- | :--------------------- |:---------------------------|
-|    Música en la gran ciudad.     |Comparación de comportamiento y preferencias musicales de los usuarios de dos ciudades distintas.      |      Pandas           |
+|[Música en la gran ciudad.](#músicaenlagranciudad)     |Comparación de comportamiento y preferencias musicales de los usuarios de dos ciudades distintas.      |      Pandas           |
 | Análisis de pago crediticio. | Análisis de diferentes variables para ver si pueden influir en el incumplimiento del pago de un crédito. | Pandas|
 |Agencia de autos. | Determinación de factores que influyen más en el precio de venta de un auto. | Pandas, matplotlib.pyplot|
 |Empresa de telecomunicaciones.|Comparación dos planes de prepago de una compañía de telecomunicaciones para determinar cual genera mayores ingresos. Prueba de hipótesis.| Pandas, numpy, scipy, matplotlib.pyplot, scipy.stats|  
