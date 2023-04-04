@@ -16,3 +16,7 @@ Los datos utizados para el análisis y realización del dashboard fueron los sig
 ## Herramientas utilizadas
 
 Tableau (dashboard), PowerPoint para el informe.
+
+## Link al dashboard
+
+[Dashboard en Tableau](https://public.tableau.com/views/DashboardtendenciasdevideosenYouTube/DashboardtendenciasdevideosenYouTube?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
