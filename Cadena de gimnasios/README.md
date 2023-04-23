@@ -2,7 +2,7 @@
 
 ## Objetivo del proyecto
 
-Durante este proyecto analizaré los datos provistos por la empresa para elabor una estrategia de retención de clientes. Utilizaré modelos de machine learning para predecir la cancelación de clientes. 
+Durante este proyecto analizaré los datos provistos por la empresa para elaborar una estrategia de retención de clientes. Utilizaré modelos de machine learning para predecir la cancelación de clientes. 
 
 
 ## Descripción de datos
