@@ -31,4 +31,8 @@ Datos del registro de visitas y compras y datos sobre el estado actual de la mem
 
 ## Librerías utilizadas
 
-Pandas, numpy, seaborn, matplotlib, sklearn
+Pandas, numpy, seaborn, matplotlib.pyplot, sklearn.model_selection (train_test_split),sklearn.linear_model import(LogisticRegression),sklearn.metrics(accuracy_score, precision_score, recall_score), sklearn.ensemble (RandomForestClassifier),sklearn.preprocessing(StandardScaler),sklearn.cluster(KMeans), scipy.cluster(dendrogram, linkage)
+
+
+
+
