@@ -1,4 +1,4 @@
-# Proyecto final de curso
+# Proyecto final del curso de Data Analyst de Practicum
 
 ## Descripción de la carpeta 
 
