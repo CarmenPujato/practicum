@@ -7,4 +7,4 @@ La carpeta **proyecto final** contiene tres proyectos individuales que en su con
 
 - [Proyecto final SQL](https://github.com/CarmenPujato/practicum/tree/main/proyecto%20final/Proyecto%20final%20SQL): proyecto con consultas de SQL donde se analizó la base de datos de uno de los servicios que compite en el mercado de libros analizando su actividad. 
 
-- Proyecto final servicio de telefonía virtual: proyecto integrador de todo el curso (incluye una presentación y un dashboard en Tableau). 
+- [Proyecto final servicio de telefonía virtual](https://github.com/CarmenPujato/practicum/tree/main/proyecto%20final/Proyecto%20final%20servicio%20de%20telefon%C3%ADa%20virtual): proyecto integrador de todo el curso (incluye una presentación y un dashboard en Tableau). 
