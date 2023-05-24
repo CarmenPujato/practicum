@@ -18,3 +18,4 @@ A continuación, se muestran los proyectos realizados durante el curso de Data A
 |[Proyecto final del curso de Data Analyst](https://github.com/CarmenPujato/practicum/tree/main/proyecto%20final)    | El proyecto final consta de tres proyectos. El primero corresponde a un proyecto de A/B test, el segundo corresponde a un proyecto utilizando consultas de SQL y por último un proyecto integrador que incluye una presentación y un dashboard.    |Pandas, plotly.express, plotly(graph_objects), scipy (stats), numpy, math, sqlalchemy (create_engine) |
 
 
+[Data Analyst diploma](https://github.com/CarmenPujato/practicum/blob/main/Carmen%20Pujato_Data%20Analyst-diploma.pdf) 
