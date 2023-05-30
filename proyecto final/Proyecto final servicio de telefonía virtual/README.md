@@ -26,3 +26,6 @@ El conjunto de datos telecom_clients_us tiene las siguientes columnas:
 ## Librerías utilizadas
 
 Pandas, plotly.express, seaborn, matplotlib.pyplot 
+
+## Visualización de datos
+Tableau
