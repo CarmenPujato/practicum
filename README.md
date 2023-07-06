@@ -1,4 +1,4 @@
-# practicum
+# TripleTen (formerly Practicum)
 A continuación, se muestran los proyectos realizados durante el curso de Data Analyst de Practicum. La tabla se encuentra ordenada según los fuimos realizando a lo largo del curso. 
 
 | Proyectos              | Descripción                 | Librerías utilizadas           |
